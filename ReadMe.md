@@ -91,11 +91,7 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KiranaSankalpa-SD&theme=default&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</p>
 
 <h2 align="center">✍️ Random Dev Quote</h2>
 
@@ -103,11 +99,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote"/>
 </p>
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=KiranaSankalpa-SD&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider"/></p>
 
@@ -116,8 +108,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer"/>
-</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
