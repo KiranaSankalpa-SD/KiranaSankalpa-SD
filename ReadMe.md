@@ -85,6 +85,8 @@
 <p align="center">
   <img height="580"  src="https://github-readme-stats.shion.dev/api?username=KiranaSankalpa-SD&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <br>
+</p>
+<p align="center">
   <img height="580"  src="https://github-readme-stats.shion.dev/api/top-langs/?username=KiranaSankalpa-SD&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
